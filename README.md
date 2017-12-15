@@ -1,4 +1,5 @@
 # Baking App
+![Travis-ci](https://api.travis-ci.org/Parag2385/Baking-App.svg)
 
 Here is a fully functional and colorful android app which I made from scratch for Android Developer Nanodegree program. This app reveals the power of adaptive UI both for phone and tablet devices. 
 This app will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. 
