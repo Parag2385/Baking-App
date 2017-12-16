@@ -16,10 +16,21 @@ It will also allow a user to select a recipe and see video-guided steps for how 
 
 ## Screenshots
 
-<img src="Screens/Screenshot_20171215-132915.jpg" width="45%">
-<img src="Screens/Screenshot_20171215-141328.jpg" width="45%">
-<img src="Screens/Screenshot_20171215-141614.jpg" width="90%">
-<img src="Screens/Screenshot_20171215-145454.jpg" width="90%">
+### Phone Device
+<img src="screens/phone1.jpg" width="250" hspace="20">
+<img src="screens/phone2.jpg" width="250" hspace="20">
+<img src="screens/phone3.jpg" width="250">
+
+<img src="screens/phone_land.jpg" width="90%"/>
+
+
+### Tablet Device
+<img src="screens/tablet1.jpg" width="60%">
+<img src="screens/tablet2.jpg" width="600">
+<img src="screens/tablet3.jpg" width="600">
+
+### Widget
+<img src="screens/widget.jpg" width="300"/>
 
 ## Libraries
 
