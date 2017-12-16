@@ -17,20 +17,23 @@ It will also allow a user to select a recipe and see video-guided steps for how 
 ## Screenshots
 
 ### Phone Device
-<img src="screens/phone1.jpg" width="250" hspace="20">
-<img src="screens/phone2.jpg" width="250" hspace="20">
-<img src="screens/phone3.jpg" width="250">
 
-<img src="screens/phone_land.jpg" width="90%"/>
+<img src="screens/phone1.png" width="40%" >
+<img src="screens/phone2.png" width="40%" >
+<img src="screens/phone3.png" width="40%">
+
+<img src="screens/phone_land.png" width="90%"/>
 
 
 ### Tablet Device
-<img src="screens/tablet1.jpg" width="60%">
-<img src="screens/tablet2.jpg" width="600">
-<img src="screens/tablet3.jpg" width="600">
+
+<img src="screens/tablet1.png" width="60%">
+<img src="screens/tablet2.png" width="600">
+<img src="screens/tablet3.png" width="600">
 
 ### Widget
-<img src="screens/widget.jpg" width="300"/>
+
+<img src="screens/widget.png" width="300"/>
 
 ## Libraries
 
