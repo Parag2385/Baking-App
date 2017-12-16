@@ -18,9 +18,7 @@ It will also allow a user to select a recipe and see video-guided steps for how 
 
 ### Phone Device
 
-<img src="screens/phone1.png" width="40%" >
-<img src="screens/phone2.png" width="40%" >
-<img src="screens/phone3.png" width="40%">
+<img src="screens/phone1.png" width="30%" hspace="20"><img src="screens/phone2.png" width="30%" hspace="20"><img src="screens/phone3.png" width="30%" >
 
 <img src="screens/phone_land.png" width="90%"/>
 
@@ -28,12 +26,12 @@ It will also allow a user to select a recipe and see video-guided steps for how 
 ### Tablet Device
 
 <img src="screens/tablet1.png" width="60%">
-<img src="screens/tablet2.png" width="600">
-<img src="screens/tablet3.png" width="600">
+<img src="screens/tablet2.png" width="80%">
+<img src="screens/tablet3.png" width="80%">
 
 ### Widget
 
-<img src="screens/widget.png" width="300"/>
+<img src="screens/widget.png" width="40%"/>
 
 ## Libraries
 
